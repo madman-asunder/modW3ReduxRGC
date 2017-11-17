@@ -2,9 +2,9 @@
 ---
 
 Version: 1.0.0  
-Author: Adam Sunderman
+Author: Adam Sunderman  
 [Official Nexus Mod Page](https://www.nexusmods.com/witcher3/mods/2116/)  
-[W3ReduxRGC Git Project](https://github.com/adam-sunderman/modW3ReduxRGC)
+[W3ReduxRGC Git Project](https://github.com/adam-sunderman/modW3ReduxRGC)  
 [Video Demo Feature Walkthrough](https://www.youtube.com/watch?v=Lbc-3TxHNaM)
 
 ---
