@@ -1,0 +1,4 @@
+**/content/**/*.xml filter=utf16
+* text=auto
+*.xml	text
+*.sh	text eol=lf
