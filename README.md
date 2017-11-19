@@ -11,7 +11,7 @@ Author: Adam Sunderman
 ## General Notes
 Realtime Gamepad Controls is only of use to you if you use an XInput controller. This mod will not be compatible with mouse and keyboard players for general play. The purpose of this mod is to allow for controller players to eliminate the need for the radial menu entirely and attempts to map your equipment inventory as well as all signs in a way that has everything accessible in real time. This mod is self-inclusive and does not require the use of extra software like XPadder or AntiMicro. This mod has not had any localization work done and presents any strings that it shows in ui layers in English translations (hard coded).
 
-##Controls
+## Controls
 This mode completely removes the radial menu as it has a focus on **100% realtime controls** in combat. The radial 
 menu button (*Left Bumper*) is now the *"Sign/QuickSelect"* Modifier. When you press LB you will notice that your 
 quick use item info display will change to show your quick slot items and bombs. These can be toggled and 
@@ -37,7 +37,7 @@ With that in mind, if you have any mods that modified input.settings in Document
 definitely be beneficial to start that file fresh as well. This can be accomplished via deleting input.settings 
 and starting up witcher 3 and a new one will be generated for you.
 
-##Installation Considerations
+## Installation Considerations
 This mod makes heavy use of modifying input.settings. Other mods that make additions to this file will be at risk to be harder merges. Particularly of note, this mod intends to heavily modify the behavior of:  
 
 - LB
