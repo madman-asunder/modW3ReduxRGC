@@ -18,17 +18,17 @@
 						<Entry varId="w3ReduxRGCControlScheme" value="1"/>
 					</Option>
 					<Option id="2" displayName="Config_RGC_GP">
-						<Entry varId="fhudMarkersDisplayMode" value="2"/>
+						<Entry varId="w3ReduxRGCControlScheme" value="2"/>
 					</Option>
 				</OptionsArray>
 			</Var>
             <Var id="virtual_w3ReduxRGCDefaultInventory" displayName="Config_RGC_DefaultInventory" displayType="OPTIONS" >
 				<OptionsArray>
-					<Option id="0" displayName="Config_RGC_DefaultPotions">
-						<Entry varId="w3ReduxRGCDefaultInvPotions" value="0"/>
+					<Option id="0" displayName="Config_RGC_DefaultItems">
+						<Entry varId="w3ReduxRGCDefaultInv" value="0"/>
 					</Option>
-					<Option id="1" displayName="Config_RGC_DefaultItems">
-						<Entry varId="w3ReduxRGCDefaultInvItems" value="1"/>
+					<Option id="1" displayName="Config_RGC_DefaultPotions">
+						<Entry varId="w3ReduxRGCDefaultInv" value="1"/>
 					</Option>
 				</OptionsArray>
 			</Var>
