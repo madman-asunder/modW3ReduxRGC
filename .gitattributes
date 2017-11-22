@@ -1,3 +1,3 @@
-*.ws set diff
 *.xml set diff
 *.csv set diff
+*.ws diff=witcherscript
