@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+   
+    <Group id="w3ReduxRGC" displayName="Mods.Config_RGC_ConfigName">
+		<PresetsArray>
+			<Preset id="0" displayName="Config_RGC_ConfigNameDefault">
+				<Entry varId="w3ReduxRGCControlScheme" value="0"/>
+				<Entry varId="w3ReduxRGCDefaultInv" value="0"/>
+			</Preset>
+		</PresetsArray>
+        <VisibleVars>
+            <Var id="virtual_w3ReduxRGCControlScheme" displayName="Config_RGC_ControlScheme" displayType="OPTIONS" >
+				<OptionsArray>
+					<Option id="0" displayName="Config_RGC_SchemeRGC">
+						<Entry varId="w3ReduxRGCControlScheme" value="0"/>
+					</Option>
+					<Option id="1" displayName="Config_RGC_SchemeXBCC">
+						<Entry varId="w3ReduxRGCControlScheme" value="1"/>
+					</Option>
+					<Option id="2" displayName="Config_RGC_GP">
+						<Entry varId="w3ReduxRGCControlScheme" value="2"/>
+					</Option>
+				</OptionsArray>
+			</Var>
+            <Var id="virtual_w3ReduxRGCDefaultInventory" displayName="Config_RGC_DefaultInventory" displayType="OPTIONS" >
+				<OptionsArray>
+					<Option id="0" displayName="Config_RGC_DefaultItems">
+						<Entry varId="w3ReduxRGCDefaultInv" value="0"/>
+					</Option>
+					<Option id="1" displayName="Config_RGC_DefaultPotions">
+						<Entry varId="w3ReduxRGCDefaultInv" value="1"/>
+					</Option>
+				</OptionsArray>
+			</Var>
+        </VisibleVars>
+    </Group>
+	
+</UserConfig>
