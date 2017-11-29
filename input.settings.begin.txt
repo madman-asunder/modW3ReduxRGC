@@ -42,6 +42,8 @@ IK_Pad_LeftShoulder=(Action=RGC_RealtimeModifier)
 
 [Boat]
 IK_Pad_LeftShoulder=(Action=RGC_RealtimeModifier)
+IK_Pad_RightTrigger=(Action=RGC_HorseCrossBow)
+IK_Pad_RightTrigger=(Action=RGC_HorseCrossBowHold,State=Duration,IdleTime=0.2)
 IK_Pad_DigitUp=(Action=RGC_EquipQuickItem1)
 IK_Pad_DigitUp=(Action=RGC_QuickItemUpperHold,State=Duration,IdleTime=0.3)
 IK_Pad_DigitDown=(Action=RGC_EquipBomb1)
@@ -49,6 +51,8 @@ IK_Pad_DigitDown=(Action=RGC_BombLowerHold,State=Duration,IdleTime=0.3)
 
 [BoatPassenger]
 IK_Pad_LeftShoulder=(Action=RGC_RealtimeModifier)
+IK_Pad_RightTrigger=(Action=RGC_HorseCrossBow)
+IK_Pad_RightTrigger=(Action=RGC_HorseCrossBowHold,State=Duration,IdleTime=0.2)
 IK_Pad_DigitUp=(Action=RGC_EquipQuickItem1)
 IK_Pad_DigitUp=(Action=RGC_QuickItemUpperHold,State=Duration,IdleTime=0.3)
 IK_Pad_DigitDown=(Action=RGC_EquipBomb1)
