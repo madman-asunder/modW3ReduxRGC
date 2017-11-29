@@ -1,2 +1,0 @@
-[diff "witcherscript"]
-textconv = "iconv -f utf-16 -t utf-8"
