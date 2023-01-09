@@ -1,4 +1,7 @@
 # W3Redux: Realtime Gamepad Controls
+
+# ARCHIVED: Replaced By: [Realtime Gamepad Controls Next Gen](https://github.com/adam-sunderman/realtime-gamepad-controls)
+
 ---
 
 Version: 1.0.1  
